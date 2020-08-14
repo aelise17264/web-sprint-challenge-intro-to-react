@@ -29,7 +29,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
-react JS is a user intervace component library that was build by facebook. it helps us to transition from one state to another effortlessly.
+react JS is a user intervace component library that was built by facebook. it helps us to transition from one state to another effortlessly.
 
 1. Describe component state.
 state contains data that the components can utilize later to change the UI. state itself cannot change, we can update it and determine how to use it but state always stays the same 
