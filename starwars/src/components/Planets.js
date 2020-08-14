@@ -23,7 +23,11 @@ const Planets = () =>{
 
     //console.log(planet)
 
+    
+
     return (
+        
+        
         <div className="Planet">
           {planet.map(info => {
             return  <Planet key={info.id} info={info}/>
@@ -31,6 +35,7 @@ const Planets = () =>{
          
         }
         </div>
+        
       );
     }
 

@@ -6,6 +6,16 @@ import Character from './components/Character'
 const App = () => {
 const [character, setCharacter] = useState([])
 
+const [currentCharacter, setCurrentCharacter] = useState(null)
+
+const openDetails = id => {
+  setCurrentCharacter(id)
+}
+
+const closeDetails =() => {
+  setCurrentCharacter(null)
+}
+
   let thisURL = 'https://swapi.py4e.com/api/people/'
 
 useEffect(() => {
@@ -37,6 +47,7 @@ useEffect(() => {
       })
      
     }
+   
     </div>
   );
 }
