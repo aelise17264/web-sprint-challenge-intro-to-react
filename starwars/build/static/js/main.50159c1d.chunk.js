@@ -1,0 +1,2 @@
+(this.webpackJsonpstarwars=this.webpackJsonpstarwars||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},,,,,function(e,t,n){},function(e,t,n){},function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),s=n(2),c=n.n(s),o=(n(8),n(9),function(){return r.a.createElement("div",{className:"App"},r.a.createElement("h1",{className:"Header"},"Characters"))});c.a.render(r.a.createElement(o,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.50159c1d.chunk.js.map
